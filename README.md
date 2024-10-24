@@ -23,13 +23,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="270"/>
 </div>
 
- ### :man_technologist: About Me :
-
-:telescope: I am a front-end developer and I want to become a full-stack in the near future!
-
-:zap: In my free time, I do speedcubing, drive a car and learn new programming technologies.
-
-:mailbox: How to reach me: [![tg](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/mmmmaikl)
+:mailbox: How to reach me: [![tg](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/wowtika)
 
 ---
 
